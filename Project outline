@@ -1,1 +1,9 @@
 # Final Project Outline
+### Datasets to use -
+  MURS SST data
+  MODIS ocean color/chlorophyll-a data
+  FathomNet, JellyWatch, MBARI, fisheries data (undecided as of yet)
+### Figures to make - 
+  Map of Monterey Bay
+  Summary of data: timeseries of monthly averaged SST and jelly frequency, map showing monthly averaged chlorophyll-a concentration
+  Analysis figure: correlation coefficients between high SST values, high chlorophyll-a concentrations, and jelly observations
