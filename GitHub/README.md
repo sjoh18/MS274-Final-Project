@@ -7,4 +7,4 @@ blooms, along with the differences in possible responses to the many physical, c
 various datasets, I aim to demonstrate a correlation, if one exists, between changing ocean conditions and aggregations of common species of jellies found in Monterey Bay, such as
 the brown sea nettle (_Chrysaora fuscescens_) and the moon jelly (_Aurelia labiata_), among others.
 
-GitHub notes - cd "directory where GitHub folder is located", then git pull, git add *, ...
+
